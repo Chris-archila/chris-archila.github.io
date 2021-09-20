@@ -5,7 +5,10 @@ body { background-color: #D2B48C;}
 #intro {width: 200px;
                 float:left;
   clear:both;}
-#chris-pic { width: 105px;
+#about-chris {{width: 500px;
+                float:center;
+  clear:both;}
+  #chris-pic { width: 105px;
                 float:left;
                 margin-right:6px;
                 margin-bottom:6px;
