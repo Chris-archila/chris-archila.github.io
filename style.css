@@ -2,10 +2,10 @@ body { background-color: #D2B48C;}
 #nav-table { width: 800px; text-align:center;}
 #buttons { width: 200px; text-align:center;}
 #headings { font-family:Ariel;font-size:200px text-align:center; color: #B22222;}
-#intro {width: 200px;
-                float:left;
+#intro {width: 4000px;
+                float:center;
   clear:both;}
-#about-chris {{width: 500px;
+#about-chris {{width: 400px;
                 float:center;
   clear:both;}
   #chris-pic { width: 105px;
