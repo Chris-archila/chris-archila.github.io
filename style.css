@@ -1,7 +1,7 @@
 body { background-color: #D2B48C;}
 #nav-table { width: 800px; text-align:center;}
 #background {
-  background-image: src="mybackground.jpg";
+  background-image: url=('mybackground.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
