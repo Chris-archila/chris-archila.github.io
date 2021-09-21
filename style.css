@@ -10,10 +10,12 @@ body { background-color: #D2B48C;}
 #headings { font-family:Ariel;font-size:200px text-align:center; color: #B22222;}
 #intro {width: 200px;
                 float:center;
-  clear:both;}
+  clear:both;
+    overflow:hidden;}
 #about-chris {{width: 300px;
                 float:center;
-  clear:both;}
+  clear:both;
+  overflow:hidden;}
   #chris-pic { width: 105px;
                 float:left;
                 margin-right:6px;
